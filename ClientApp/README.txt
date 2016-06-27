@@ -1,0 +1,1 @@
+Set server ip-adress in properties.cfg before use.
